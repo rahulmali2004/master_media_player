@@ -240,7 +240,7 @@ class _First_PageState extends State<First_Page> {
           ],
         ),
       ),
-      backgroundColor: Color(0xff0002FF),
+      backgroundColor: const Color(0xff0002FF),
     );
   }
 }
